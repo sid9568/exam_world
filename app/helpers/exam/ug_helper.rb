@@ -1,0 +1,2 @@
+module Exam::UgHelper
+end

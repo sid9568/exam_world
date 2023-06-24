@@ -1,0 +1,2 @@
+module Exam::PgHelper
+end
